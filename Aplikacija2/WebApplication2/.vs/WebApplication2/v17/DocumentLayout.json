@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Laptop\\Desktop\\Android backend\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A399A63F-CF8A-4023-BCC3-5A9B2EC4ADEF}|WebApplication2\\WebApplication2.csproj|c:\\users\\laptop\\desktop\\android backend\\webapplication2\\webapplication2\\webapplication2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A399A63F-CF8A-4023-BCC3-5A9B2EC4ADEF}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\webapplication2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A399A63F-CF8A-4023-BCC3-5A9B2EC4ADEF}|WebApplication2\\WebApplication2.csproj|c:\\users\\laptop\\desktop\\android backend\\webapplication2\\webapplication2\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A399A63F-CF8A-4023-BCC3-5A9B2EC4ADEF}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A399A63F-CF8A-4023-BCC3-5A9B2EC4ADEF}|WebApplication2\\WebApplication2.csproj|c:\\users\\laptop\\desktop\\android backend\\webapplication2\\webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A399A63F-CF8A-4023-BCC3-5A9B2EC4ADEF}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A399A63F-CF8A-4023-BCC3-5A9B2EC4ADEF}|WebApplication2\\WebApplication2.csproj|c:\\users\\laptop\\desktop\\android backend\\webapplication2\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A399A63F-CF8A-4023-BCC3-5A9B2EC4ADEF}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A399A63F-CF8A-4023-BCC3-5A9B2EC4ADEF}|WebApplication2\\WebApplication2.csproj|c:\\users\\laptop\\desktop\\android backend\\webapplication2\\webapplication2\\controllers\\destinacijacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A399A63F-CF8A-4023-BCC3-5A9B2EC4ADEF}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\destinacijacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A399A63F-CF8A-4023-BCC3-5A9B2EC4ADEF}|WebApplication2\\WebApplication2.csproj|c:\\users\\laptop\\desktop\\android backend\\webapplication2\\webapplication2\\models\\destinacija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A399A63F-CF8A-4023-BCC3-5A9B2EC4ADEF}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\destinacija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebApplication2.csproj",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\Android backend\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+              "RelativeDocumentMoniker": "WebApplication2\\WebApplication2.csproj",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\Android backend\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+              "RelativeToolTip": "WebApplication2\\WebApplication2.csproj",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-23T16:44:00.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\Android backend\\WebApplication2\\WebApplication2\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication2\\appsettings.json",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\Android backend\\WebApplication2\\WebApplication2\\appsettings.json",
+              "RelativeToolTip": "WebApplication2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-23T16:41:44.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\Android backend\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\Android backend\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "WebApplication2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T16:37:01.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\Android backend\\WebApplication2\\WebApplication2\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\Android backend\\WebApplication2\\WebApplication2\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebApplication2\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T16:34:43.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DestinacijaController.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\Android backend\\WebApplication2\\WebApplication2\\Controllers\\DestinacijaController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\DestinacijaController.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\Android backend\\WebApplication2\\WebApplication2\\Controllers\\DestinacijaController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\DestinacijaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T16:35:49.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Destinacija.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\Android backend\\WebApplication2\\WebApplication2\\Models\\Destinacija.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Destinacija.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\Android backend\\WebApplication2\\WebApplication2\\Models\\Destinacija.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Destinacija.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T16:34:00.072Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

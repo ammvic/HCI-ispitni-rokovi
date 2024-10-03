@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1E88E5</color> <!-- Svetlo plava -->
+    <color name="colorPrimaryVariant">#1565C0</color> <!-- Tamnija plava -->
+    <color name="colorSecondary">#FFB300</color> <!-- Svetlo narandžasta -->
+    <color name="colorBackground">#F5F5F5</color> <!-- Svetla siva pozadina -->
+    <color name="colorSurface">#FFFFFF</color> <!-- Bela površina -->
+    <color name="colorError">#E53935</color> <!-- Crvena za greške -->
+    <color name="colorOnPrimary">#FFFFFF</color> <!-- Bela na primarnu -->
+    <color name="colorOnSecondary">#212121</color> <!-- Tamna na sekundarnu -->
+    <color name="colorOnBackground">#212121</color> <!-- Tamna na pozadinu -->
+    <color name="colorOnSurface">#212121</color> <!-- Tamna na površinu -->
+    <color name="colorOnError">#FFFFFF</color> <!-- Bela na greške -->
+</resources>

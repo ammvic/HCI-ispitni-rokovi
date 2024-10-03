@@ -1,0 +1,254 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Laptop\\Desktop\\Android backend\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{709B140D-4043-48EF-A438-B599DD83809C}|WebApplication1.csproj|c:\\users\\laptop\\desktop\\android backend\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709B140D-4043-48EF-A438-B599DD83809C}|WebApplication1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709B140D-4043-48EF-A438-B599DD83809C}|WebApplication1.csproj|c:\\users\\laptop\\desktop\\android backend\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{709B140D-4043-48EF-A438-B599DD83809C}|WebApplication1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709B140D-4043-48EF-A438-B599DD83809C}|WebApplication1.csproj|c:\\users\\laptop\\desktop\\android backend\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{709B140D-4043-48EF-A438-B599DD83809C}|WebApplication1.csproj|solutionrelative:webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709B140D-4043-48EF-A438-B599DD83809C}|WebApplication1.csproj|c:\\users\\laptop\\desktop\\android backend\\webapplication1\\data\\fakultetcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709B140D-4043-48EF-A438-B599DD83809C}|WebApplication1.csproj|solutionrelative:data\\fakultetcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709B140D-4043-48EF-A438-B599DD83809C}|WebApplication1.csproj|c:\\users\\laptop\\desktop\\android backend\\webapplication1\\models\\profesorpredmet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709B140D-4043-48EF-A438-B599DD83809C}|WebApplication1.csproj|solutionrelative:models\\profesorpredmet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709B140D-4043-48EF-A438-B599DD83809C}|WebApplication1.csproj|c:\\users\\laptop\\desktop\\android backend\\webapplication1\\controllers\\profesorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709B140D-4043-48EF-A438-B599DD83809C}|WebApplication1.csproj|solutionrelative:controllers\\profesorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709B140D-4043-48EF-A438-B599DD83809C}|WebApplication1.csproj|c:\\users\\laptop\\desktop\\android backend\\webapplication1\\dtos\\profesorregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709B140D-4043-48EF-A438-B599DD83809C}|WebApplication1.csproj|solutionrelative:dtos\\profesorregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709B140D-4043-48EF-A438-B599DD83809C}|WebApplication1.csproj|c:\\users\\laptop\\desktop\\android backend\\webapplication1\\dtos\\profesorlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709B140D-4043-48EF-A438-B599DD83809C}|WebApplication1.csproj|solutionrelative:dtos\\profesorlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709B140D-4043-48EF-A438-B599DD83809C}|WebApplication1.csproj|c:\\users\\laptop\\desktop\\android backend\\webapplication1\\dtos\\profesordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709B140D-4043-48EF-A438-B599DD83809C}|WebApplication1.csproj|solutionrelative:dtos\\profesordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709B140D-4043-48EF-A438-B599DD83809C}|WebApplication1.csproj|c:\\users\\laptop\\desktop\\android backend\\webapplication1\\dtos\\predmetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709B140D-4043-48EF-A438-B599DD83809C}|WebApplication1.csproj|solutionrelative:dtos\\predmetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709B140D-4043-48EF-A438-B599DD83809C}|WebApplication1.csproj|c:\\users\\laptop\\desktop\\android backend\\webapplication1\\dtos\\profesorpredmetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709B140D-4043-48EF-A438-B599DD83809C}|WebApplication1.csproj|solutionrelative:dtos\\profesorpredmetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709B140D-4043-48EF-A438-B599DD83809C}|WebApplication1.csproj|c:\\users\\laptop\\desktop\\android backend\\webapplication1\\models\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709B140D-4043-48EF-A438-B599DD83809C}|WebApplication1.csproj|solutionrelative:models\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709B140D-4043-48EF-A438-B599DD83809C}|WebApplication1.csproj|c:\\users\\laptop\\desktop\\android backend\\webapplication1\\models\\predmet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709B140D-4043-48EF-A438-B599DD83809C}|WebApplication1.csproj|solutionrelative:models\\predmet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\Android backend\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\Android backend\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-23T16:41:54.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PredmetDto.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\Android backend\\WebApplication1\\DTOs\\PredmetDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\PredmetDto.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\Android backend\\WebApplication1\\DTOs\\PredmetDto.cs",
+              "RelativeToolTip": "DTOs\\PredmetDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:39:06.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProfesorPredmet.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\Android backend\\WebApplication1\\Models\\ProfesorPredmet.cs",
+              "RelativeDocumentMoniker": "Models\\ProfesorPredmet.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\Android backend\\WebApplication1\\Models\\ProfesorPredmet.cs",
+              "RelativeToolTip": "Models\\ProfesorPredmet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:03:49.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\Android backend\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\Android backend\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAwFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T12:34:53.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProfesorDto.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\Android backend\\WebApplication1\\DTOs\\ProfesorDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ProfesorDto.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\Android backend\\WebApplication1\\DTOs\\ProfesorDto.cs",
+              "RelativeToolTip": "DTOs\\ProfesorDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAgwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:35:40.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebApplication1.csproj",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\Android backend\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1.csproj",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\Android backend\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-20T12:35:49.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProfesorLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\Android backend\\WebApplication1\\DTOs\\ProfesorLoginDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ProfesorLoginDto.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\Android backend\\WebApplication1\\DTOs\\ProfesorLoginDto.cs",
+              "RelativeToolTip": "DTOs\\ProfesorLoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:43:15.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FakultetContext.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\Android backend\\WebApplication1\\Data\\FakultetContext.cs",
+              "RelativeDocumentMoniker": "Data\\FakultetContext.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\Android backend\\WebApplication1\\Data\\FakultetContext.cs",
+              "RelativeToolTip": "Data\\FakultetContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T12:38:48.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProfesorController.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\Android backend\\WebApplication1\\Controllers\\ProfesorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProfesorController.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\Android backend\\WebApplication1\\Controllers\\ProfesorController.cs",
+              "RelativeToolTip": "Controllers\\ProfesorController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAD0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T12:36:46.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProfesorPredmetDto.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\Android backend\\WebApplication1\\DTOs\\ProfesorPredmetDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ProfesorPredmetDto.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\Android backend\\WebApplication1\\DTOs\\ProfesorPredmetDto.cs",
+              "RelativeToolTip": "DTOs\\ProfesorPredmetDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:36:34.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProfesorRegistrationDto.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\Android backend\\WebApplication1\\DTOs\\ProfesorRegistrationDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ProfesorRegistrationDto.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\Android backend\\WebApplication1\\DTOs\\ProfesorRegistrationDto.cs",
+              "RelativeToolTip": "DTOs\\ProfesorRegistrationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:43:43.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Profesor.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\Android backend\\WebApplication1\\Models\\Profesor.cs",
+              "RelativeDocumentMoniker": "Models\\Profesor.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\Android backend\\WebApplication1\\Models\\Profesor.cs",
+              "RelativeToolTip": "Models\\Profesor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T12:13:46.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Predmet.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\Android backend\\WebApplication1\\Models\\Predmet.cs",
+              "RelativeDocumentMoniker": "Models\\Predmet.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\Android backend\\WebApplication1\\Models\\Predmet.cs",
+              "RelativeToolTip": "Models\\Predmet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T12:13:38.011Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
