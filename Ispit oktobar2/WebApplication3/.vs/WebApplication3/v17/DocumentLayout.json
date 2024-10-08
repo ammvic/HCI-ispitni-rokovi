@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Laptop\\source\\repos\\WebApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9886D8-139C-4C51-8D82-54B5AC11C355}|WebApplication3\\WebApplication3.csproj|c:\\users\\laptop\\source\\repos\\webapplication3\\webapplication3\\controllers\\bibliotekacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9886D8-139C-4C51-8D82-54B5AC11C355}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\bibliotekacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9886D8-139C-4C51-8D82-54B5AC11C355}|WebApplication3\\WebApplication3.csproj|c:\\users\\laptop\\source\\repos\\webapplication3\\webapplication3\\models\\knjiga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9886D8-139C-4C51-8D82-54B5AC11C355}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\knjiga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9886D8-139C-4C51-8D82-54B5AC11C355}|WebApplication3\\WebApplication3.csproj|c:\\users\\laptop\\source\\repos\\webapplication3\\webapplication3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9C9886D8-139C-4C51-8D82-54B5AC11C355}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9886D8-139C-4C51-8D82-54B5AC11C355}|WebApplication3\\WebApplication3.csproj|c:\\users\\laptop\\source\\repos\\webapplication3\\webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9886D8-139C-4C51-8D82-54B5AC11C355}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9886D8-139C-4C51-8D82-54B5AC11C355}|WebApplication3\\WebApplication3.csproj|c:\\users\\laptop\\source\\repos\\webapplication3\\webapplication3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9C9886D8-139C-4C51-8D82-54B5AC11C355}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9886D8-139C-4C51-8D82-54B5AC11C355}|WebApplication3\\WebApplication3.csproj|c:\\users\\laptop\\source\\repos\\webapplication3\\webapplication3\\aplikacijacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9886D8-139C-4C51-8D82-54B5AC11C355}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\aplikacijacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9886D8-139C-4C51-8D82-54B5AC11C355}|WebApplication3\\WebApplication3.csproj|c:\\users\\laptop\\source\\repos\\webapplication3\\webapplication3\\dtos\\knjigadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9886D8-139C-4C51-8D82-54B5AC11C355}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\dtos\\knjigadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9886D8-139C-4C51-8D82-54B5AC11C355}|WebApplication3\\WebApplication3.csproj|c:\\users\\laptop\\source\\repos\\webapplication3\\webapplication3\\webapplication3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9C9886D8-139C-4C51-8D82-54B5AC11C355}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\webapplication3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Laptop\\source\\repos\\WebApplication3\\WebApplication3\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication3\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Laptop\\source\\repos\\WebApplication3\\WebApplication3\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication3\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABUAAAAAAAAAAAAswB4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-05T11:30:20.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\source\\repos\\WebApplication3\\WebApplication3\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Program.cs",
+              "ToolTip": "C:\\Users\\Laptop\\source\\repos\\WebApplication3\\WebApplication3\\Program.cs",
+              "RelativeToolTip": "WebApplication3\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T13:08:55.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Laptop\\source\\repos\\WebApplication3\\WebApplication3\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication3\\appsettings.json",
+              "ToolTip": "C:\\Users\\Laptop\\source\\repos\\WebApplication3\\WebApplication3\\appsettings.json",
+              "RelativeToolTip": "WebApplication3\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-25T13:07:25.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BibliotekaController.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\BibliotekaController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\BibliotekaController.cs",
+              "ToolTip": "C:\\Users\\Laptop\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\BibliotekaController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\BibliotekaController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T13:03:27.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Knjiga.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\source\\repos\\WebApplication3\\WebApplication3\\Models\\Knjiga.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\Knjiga.cs",
+              "ToolTip": "C:\\Users\\Laptop\\source\\repos\\WebApplication3\\WebApplication3\\Models\\Knjiga.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\Knjiga.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T13:02:43.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KnjigaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\source\\repos\\WebApplication3\\WebApplication3\\Dtos\\KnjigaDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Dtos\\KnjigaDTO.cs",
+              "ToolTip": "C:\\Users\\Laptop\\source\\repos\\WebApplication3\\WebApplication3\\Dtos\\KnjigaDTO.cs",
+              "RelativeToolTip": "WebApplication3\\Dtos\\KnjigaDTO.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T13:06:31.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AplikacijaContext.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\source\\repos\\WebApplication3\\WebApplication3\\AplikacijaContext.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\AplikacijaContext.cs",
+              "ToolTip": "C:\\Users\\Laptop\\source\\repos\\WebApplication3\\WebApplication3\\AplikacijaContext.cs",
+              "RelativeToolTip": "WebApplication3\\AplikacijaContext.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T13:04:06.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WebApplication3.csproj",
+              "DocumentMoniker": "C:\\Users\\Laptop\\source\\repos\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+              "RelativeDocumentMoniker": "WebApplication3\\WebApplication3.csproj",
+              "ToolTip": "C:\\Users\\Laptop\\source\\repos\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+              "RelativeToolTip": "WebApplication3\\WebApplication3.csproj",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-25T13:02:00.296Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_all_books"
+        android:title="All Books"
+        android:icon="@drawable/baseline_book_24"/>
+    <item
+        android:id="@+id/nav_favorite_books"
+        android:title="Favorite Books"
+        android:icon="@drawable/baseline_favorite_24"/>
+    <item
+        android:id="@+id/nav_sort_by_date"
+        android:title="Sort by Date"
+        android:icon="@drawable/baseline_calendar_month_24"/>
+    <item
+        android:id="@+id/nav_sort_by_author"
+        android:title="Sort by Author"
+        android:icon="@drawable/baseline_emoji_people_24"/>
+</menu>
