@@ -1,7 +1,0 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
-    <style name="Base.Theme.AplikacijaOktobar2" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your theme here -->
-    </style>
-
-    <style name="Theme.AplikacijaOktobar2" parent="Base.Theme.AplikacijaOktobar2"/>
-</resources>

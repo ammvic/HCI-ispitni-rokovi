@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_all_books"
+        android:title="Sve knjige"
+        android:icon="@drawable/baseline_book_24" />
+    <item
+        android:id="@+id/nav_favorite_books"
+        android:title="Omiljene knjige"
+        android:icon="@drawable/baseline_favorite_24" />
+    <item
+        android:id="@+id/nav_sort"
+        android:title="Sortiraj knjige"
+        android:icon="@drawable/baseline_sort_24" />
+</menu>

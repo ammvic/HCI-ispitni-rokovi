@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ispit</string>
+    <string name="open_drawer">Otvori meni</string>
+    <string name="close_drawer">Zatvori meni</string>
+</resources>
